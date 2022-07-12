@@ -6,7 +6,7 @@
 
 type `make`
 
-Execute `./mysh` and you will be able to the commands that were made (Check below).
+Execute `./mysh` and you will be able to type the commands that were made (Check below).
 
 # Commands
 
