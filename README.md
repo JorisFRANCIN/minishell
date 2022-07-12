@@ -1,14 +1,14 @@
 ## minishell
 
-#A replica of the shell tcsh
+# A replica of the shell tcsh
 
-##Usage
+## Usage
 
 type `make`
 
 Execute `./mysh` and you will be able to the commands that were made (Check below).
 
-#Commands
+# Commands
 
 - all /bin commands
 - `cd`
@@ -16,5 +16,5 @@ Execute `./mysh` and you will be able to the commands that were made (Check belo
 - `setenv` & `unsetenv`
 - `exit`
 
-##Credits
+## Credits
 Joris FRANCIN
