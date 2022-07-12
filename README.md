@@ -15,3 +15,6 @@ Execute `./mysh` and you will be able to the commands that were made (Check belo
 - `env`
 - `setenv` & `unsetenv`
 - `exit`
+
+##Credits
+Joris FRANCIN
